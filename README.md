@@ -1,4 +1,4 @@
 ### こんにちは 👋
 
-![weeb](https://raw.githubusercontent.com/Gibsol/Gibsol/main/056c584d9335fcabf080ca43e583e3c4.gif)
+![weeb](https://i.pinimg.com/originals/5e/81/ab/5e81ab3aeb21b9639014300f326ae1a2.gif)
 
