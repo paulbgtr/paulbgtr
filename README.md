@@ -4,4 +4,4 @@
 
 - 🧑‍🦲 &nbsp;I'm a student and a Linux enthusiast
 - 🌱 &nbsp;I’m currently learning Qt, C++
-- ⚡ &nbsp;Fact: I like Tolstoy's books
+- ⚡ &nbsp;Fact: I like studying
