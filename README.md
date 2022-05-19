@@ -2,7 +2,7 @@
 
 - 🧑‍🦲 &nbsp;I'm a student and I like Linux
 - 🌱 &nbsp;I’m currently learning Qt, C++
-- 🌐 &nbsp;Languages: I speak Russian, English, Estonian(a little), 日本語
+- 🌐 &nbsp;Languages I speak: Russian, English, Estonian, 日本語
 - ⚡ &nbsp;Fact: I like studying
 
 学生です。
