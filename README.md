@@ -1,6 +1,6 @@
 ### Hi there
 
-- 🧑‍🦲 &nbsp;I'm a student and I like Linux
+- 🧑‍🦲 &nbsp;I'm a student and I use Arch btw.
 - 🌱 &nbsp;I’m currently learning Rust
 - 🌐 &nbsp;Languages I speak: Russian, English, Estonian, 日本語
 - ⚡ &nbsp;Fact: I like studying
