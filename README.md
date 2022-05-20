@@ -7,7 +7,6 @@
 
 学生です。
 Linuxとプログラミングが大好き。そしてC++とQtを勉強します！
-よろしくお願いします！
 
 ![weeb](https://c.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif)
 
