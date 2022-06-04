@@ -1,4 +1,4 @@
-### Hi there
+<h1 align="center">Hi, I'm Kainoa, aka ThatOneCalculator! 👋</h1> Hi there
 
 - 🧑‍🦲 &nbsp;I'm a student and I use Arch btw.
 - 🌱 &nbsp;I’m currently learning Rust
