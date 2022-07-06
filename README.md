@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I'm+Paul;I+use+Arch+btw.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Paul;I+use+Arch+btw.)](https://git.io/typing-svg)
 
 ### About me
 I'm a student from Estonia, I speak Russian, English, Japanese and Estonian languages. 
