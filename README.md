@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Paul;I+use+Arch+btw.)](https://git.io/typing-svg)
 
 ### About me
-I'm a student from **Estonia**, I speak 🇷🇺**Russian**, 🇬🇧**English**, 🇯🇵**Japanese** and 🇪🇪**Estonian** languages. \
+I'm a student from **Estonia**. \
+I speak 🇷🇺**Russian**, 🇬🇧**English**, 🇯🇵**Japanese** and 🇪🇪**Estonian** languages. \
 You can read more **about me** and check my other **Social Media** at my [**page**](https://gibsol.github.io/).
 
 <h3 align="left">Confident</h3>
