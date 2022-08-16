@@ -2,7 +2,7 @@
 
 ### About me
 I'm a student from **Estonia**. \
-I speak 🇷🇺**Russian**, 🇬🇧**English**, 🇯🇵**Japanese** and 🇪🇪**Estonian** languages. \
+I speak 🇷🇺**Russian**, 🇬🇧**English**, 🇯🇵**Japanese** and 🇪🇪**Estonian** language. \
 You can read more **about me** and check my other **Social Media** at my [**page**](https://gibsol.github.io/).
 
 <h3 align="left">Confident</h3>
