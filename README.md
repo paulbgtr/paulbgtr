@@ -6,7 +6,7 @@
 An ambiverted student from **Estonia** that loves learning new things, especially things related to **Computer Science**.  \
 I am always open for new opportunities, knowledge, ideas and people.\
 I speak 🇷🇺**Russian**, 🇬🇧**English**, 🇯🇵**Japanese** and 🇪🇪**Estonian** languages. \
-You can read more **about me** and check my other **Social Media** on my [**Website**](https://gibsol.github.io/).
+You can read more **about me** and check my other **Social Media** on my [**Website**](https://gibsol.dev/).
 
 <img width="25%" align="right" alt="Thinking" src="https://github.com/Gibsol/Gibsol/blob/main/imgs/baamboozle.gif?raw=true"/>
 
