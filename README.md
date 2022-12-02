@@ -2,11 +2,11 @@
 <img  width="600px" alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Paul;I+use+Arch+btw.">
 </a>
 
-## About me
-An ambiverted student from **Estonia** that loves learning new things, especially things related to **Computer Science**.  \
-I am always open for new opportunities, knowledge, ideas and people.\
-I speak 🇷🇺**Russian**, 🇬🇧**English**, 🇯🇵**Japanese** and 🇪🇪**Estonian** languages. \
-You can read more **about me** and check my other **Social Media** on my [**Website**](https://gibsol.dev/).
+An ambiverted student from Estonia that loves learning new things, especially things related to **Computer Science**. \
+I speak **Russian**, **English**, **Japanese**, and **Estonian** languages. \
+You can read more about me and check my other Social Media on my [**Website**](https://gibsol.dev/).
+
+_Always open to new opportunities, knowledge, ideas, and people._
 
 <img width="25%" align="right" alt="Thinking" src="https://github.com/Gibsol/Gibsol/blob/main/imgs/baamboozle.gif?raw=true"/>
 
