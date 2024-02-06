@@ -8,7 +8,7 @@
 
 🌐 My GitHub showcases my projects and experiments. Dive in, explore, and maybe even collaborate!
 
-🔍 For more about me and my work, visit [paulbg.dev](https://paulbg.dev). You can connect with me on [LinkedIn](https://www.linkedin.com/in/paul-bogatyr-65945524b/) or reach out via [email](https://paulbg.dev/contact).
+🔍 For more about me and my work, visit [paulbg.dev](https://paulbg.dev). You can connect with me on [LinkedIn](https://www.linkedin.com/in/paulbg0) or reach out via [email](https://paulbg.dev/contact).
 
 🎶 Beyond coding, I'm into music, fitness, and spending time with loved ones.
 
