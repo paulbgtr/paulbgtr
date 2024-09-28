@@ -4,6 +4,6 @@ i focus on using tech to solve problems. from frontend development with javascri
 
 check out my github for projects and experiments. feel free to explore and collaborate.
 
-more details on my work at [paulbg.dev](https://paulbg.dev). you can also find me on linkedin or reach out via [email](https://paulbg.dev/contact).
+more details on my work at [paulbg.dev](https://paulbg.dev). you can also find me on [linkedin](https://www.linkedin.com/in/paulbg0/) or reach out via [email](https://paulbg.dev/contact).
 
 let’s connect, learn, and build.
