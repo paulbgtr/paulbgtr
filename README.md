@@ -1,5 +1,5 @@
-software engineer (tallinn, estonia)  
-building stuff
+software engineer (tallinn, estonia)
+building [nebriq](https://nebriq.com) - chat with your thoughts using ai.
 
 **technologies**  
 frontend: javascript · react · next.js  
