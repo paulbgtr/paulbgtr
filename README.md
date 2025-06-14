@@ -14,4 +14,4 @@ github houses experimental builds & projects I’ve worked on over the years.
 
 trying to move to radicle — decentralized code, no more corporate chains.
 
-👾 radicle id: z6MkppfZRCiCPDUbgWkhim9e5YZ5eZJH65hEuNAfKvSCyM5E 
+👾 me on radicle: [z6MkppfZRCiCPDUbgWkhim9e5YZ5eZJH65hEuNAfKvSCyM5E](https://app.radicle.xyz/nodes/seed.radicle.garden/users/did:key:z6MkppfZRCiCPDUbgWkhim9e5YZ5eZJH65hEuNAfKvSCyM5E) 
