@@ -10,4 +10,8 @@ interests: modern web, maths, ml, startups
 **contact**  
 → [paulbg.dev](https://paulbg.dev)  
 
-github houses experimental builds and iterative projects.  
+github houses experimental builds & projects I’ve worked on over the years.
+
+trying to move to radicle — decentralized code, no more corporate chains.
+
+👾 radicle id: z6MkppfZRCiCPDUbgWkhim9e5YZ5eZJH65hEuNAfKvSCyM5E 
